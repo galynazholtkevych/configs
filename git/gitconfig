@@ -1,0 +1,15 @@
+[user]
+	name = Galyna Zholtkevych
+	email = g.zholtkevych@atomcream.com
+[core]
+	autocrlf = input
+	editor = vim
+	excludesfile = ~/.gitignore_global
+[push]
+	default = current
+[i18n]
+	filesEncoding = utf-8
+[merge]
+	tool = vimdiff
+[diff]
+	guitool = vimdiff
